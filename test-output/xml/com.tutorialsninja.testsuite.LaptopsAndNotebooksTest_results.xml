@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sanity test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.859">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserPlaceOrderSuccessfully" time="11.992" classname="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" />
+                <testcase name="verifyProductsPriceDisplayHighToLowSuccessfully" time="1.867" classname="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" />
+      
+</testsuite>
